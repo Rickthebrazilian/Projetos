@@ -1,0 +1,128 @@
+
+*{
+background-color: rgb(34,34,34);
+color: white;
+
+
+}
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.nav-container{
+background-color: rgb(34, 34, 34);
+display:flex;
+justify-content:space-around;
+flex-direction: row;
+height: 100 px;
+font-size: 120 px;
+padding: 12;
+align-items: center ;
+gap: 300 px;
+font-family: "Poppins", sans-serif;
+font-weight: 700;
+font-style: normal;
+gap: 100px;
+}
+
+.conteudo{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+height: 740px;
+
+
+
+}
+
+
+
+
+h1{
+    font-size: xx-large;
+}
+
+span{font-size: 120 px;}
+
+.formulario{
+    display:flex;
+    flex-direction: column;
+    width:500px;
+    height: 750px;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.divisor{
+    background-color: rgb(117, 114, 122);
+    height: 50px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+.titulo{
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.imagens{
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.textop{font-size:25px;}
+
+#whatsapp{
+    
+background-color: rgb(232, 230, 238);
+height: 40px;
+font-size: medium;
+color: black;
+font-weight: 500;
+margin-top:10px;
+
+
+}
+
+#nomedousuario{
+
+background-color: rgb(232, 230, 238);
+height: 40px;
+font-size: medium;
+font-weight: 500;
+margin-top:10px;
+}
+
+#endereco{
+
+background-color: rgb(232, 230, 238);
+height: 40px;
+font-size: medium;
+font-weight: 500;
+color: black;
+margin-top:10px;
+}
+
+#selecionar{
+
+background-color: rgb(232, 230, 238);
+height: 40px;
+font-size: medium;
+font-weight: 500;
+color: black;
+margin-top:10px;
+}
